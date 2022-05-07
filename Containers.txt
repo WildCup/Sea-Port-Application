@@ -1,0 +1,58 @@
+-  Type: EXPLOSIVE
+   Id: 14
+   Sender Hubert Hagel id: 0
+   Tare (kg): 100.0
+   Net weight (kg): 500.0
+   Certificate: AAA
+   Security: BBB
+   arrivalDate: null
+   expireDate: null
+   Color: CYAN
+   Shock absorption (N) : 5000.0
+-  Type: REFRIGERATED
+   Id: 17
+   Sender Hubert Hagel id: 0
+   Tare (kg): 100.0
+   Net weight (kg): 500.0
+   Certificate: AAA
+   Security: BBB
+   arrivalDate: null
+   expireDate: null
+   Color: CYAN
+   Toughness: CCC
+   Power (W) : 120.0
+-  Type: LIQUID
+   Id: 18
+   Sender Hubert Hagel id: 0
+   Tare (kg): 100.0
+   Net weight (kg): 500.0
+   Certificate: AAA
+   Security: BBB
+   arrivalDate: null
+   expireDate: null
+   Color: CYAN
+   Max pressure (MPa) : 1200.0
+-  Type: TOXIC_POWDER
+   Id: 19
+   Sender Hubert Hagel id: 0
+   Tare (kg): 100.0
+   Net weight (kg): 500.0
+   Certificate: AAA
+   Security: BBB
+   arrivalDate: null
+   expireDate: null
+   Color: CYAN
+   Safety level: 3
+   Max Temperature (K): 300.0
+-  Type: TOXIC_LIQUID
+   Id: 20
+   Sender Hubert Hagel id: 0
+   Tare (kg): 100.0
+   Net weight (kg): 500.0
+   Certificate: AAA
+   Security: BBB
+   arrivalDate: null
+   expireDate: null
+   Color: CYAN
+   Safety level: 3
+   Max PH: 7.0

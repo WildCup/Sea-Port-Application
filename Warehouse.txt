@@ -1,0 +1,36 @@
+Max number of Containers: 10
+-  Type: REFRIGERATED
+   Id: 15
+   Sender Hubert Hagel id: 0
+   Tare (kg): 100.0
+   Net weight (kg): 500.0
+   Certificate: AAA
+   Security: BBB
+   arrivalDate: 2022-04-23
+   expireDate: null
+   Color: CYAN
+   Toughness: CCC
+   Power (W) : 120.0
+-  Type: REFRIGERATED
+   Id: 16
+   Sender Hubert Hagel id: 0
+   Tare (kg): 100.0
+   Net weight (kg): 500.0
+   Certificate: AAA
+   Security: BBB
+   arrivalDate: 2022-04-23
+   expireDate: null
+   Color: CYAN
+   Toughness: CCC
+   Power (W) : 120.0
+-  Type: EXPLOSIVE
+   Id: 21
+   Sender Hubert Hagel id: 0
+   Tare (kg): 5.0
+   Net weight (kg): 5.0
+   Certificate: 5T
+   Security: T5
+   arrivalDate: 2022-07-05
+   expireDate: 2022-07-10
+   Color: GREEN
+   Shock absorption (N) : 4.0
